@@ -1,0 +1,7 @@
+﻿# Ferramentas e arquivos locais, não fazem parte do site.
+node_modules/
+.*-qa/
+.qa-*/
+*.log
+.DS_Store
+Thumbs.db
